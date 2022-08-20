@@ -31,7 +31,7 @@ body {
 }
 
 .btn-white {
-  background-color: rgb(253, 226, 248);
+  background-color: rgb(252, 189, 240);
   color: rgb(0, 0, 0);
 }
 
@@ -49,7 +49,7 @@ body {
 }
 
 .btn-white::after {
-  background-color: #fff;
+  background-color: rgb(255, 104, 210);
 }
 
 .btn:hover::after {
